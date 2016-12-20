@@ -1,0 +1,11 @@
+C:\Users\Ria\Desktop\programming\tarot\tarot\bin\Debug\tarot.exe.config
+C:\Users\Ria\Desktop\programming\tarot\tarot\bin\Debug\tarot.exe
+C:\Users\Ria\Desktop\programming\tarot\tarot\bin\Debug\tarot.pdb
+C:\Users\Ria\Desktop\programming\tarot\tarot\bin\Debug\tarot.xml
+C:\Users\Ria\Desktop\programming\tarot\tarot\obj\Debug\tarot.vbprojResolveAssemblyReference.cache
+C:\Users\Ria\Desktop\programming\tarot\tarot\obj\Debug\tarot.Form1.resources
+C:\Users\Ria\Desktop\programming\tarot\tarot\obj\Debug\tarot.Resources.resources
+C:\Users\Ria\Desktop\programming\tarot\tarot\obj\Debug\tarot.vbproj.GenerateResource.Cache
+C:\Users\Ria\Desktop\programming\tarot\tarot\obj\Debug\tarot.exe
+C:\Users\Ria\Desktop\programming\tarot\tarot\obj\Debug\tarot.xml
+C:\Users\Ria\Desktop\programming\tarot\tarot\obj\Debug\tarot.pdb
